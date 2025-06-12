@@ -1,3 +1,6 @@
+import os
+os.system("pip install torchcam")
+
 import streamlit as st
 import sys
 import pandas as pd
